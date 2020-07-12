@@ -294,6 +294,8 @@
   {"CaseTypeID": "MoneyClaimCase", "CaseEventID": "ManageDocuments", "UserRole":"caseworker-cmc-judge", "CRUD": "R"},
   {"CaseTypeID": "MoneyClaimCase", "CaseEventID": "ManageDocuments", "UserRole":"caseworker-cmc-legaladvisor", "CRUD": "R"},
   {"CaseTypeID": "MoneyClaimCase", "CaseEventID": "ManageDocuments", "UserRole":"caseworker-cmc-solicitor", "CRUD": "R"},
+  {"CaseTypeID": "MoneyClaimCase", "CaseEventID": "CaseMovedOffline", "UserRole": "caseworker-cmc", "CRUD": "CRUD"},
+  {"CaseTypeID": "MoneyClaimCase", "CaseEventID": "CaseMovedOffline", "UserRole": "citizen", "CRUD": "CR"},
   {"CaseTypeID": "MoneyClaimCase", "CaseEventID": "PaperResponseAdmission", "UserRole": "caseworker-cmc", "CRUD": "CRUD"},
   {"CaseTypeID": "MoneyClaimCase", "CaseEventID": "ClaimNotes", "UserRole": "caseworker-cmc", "CRUD": "CR"},
   {"CaseTypeID": "MoneyClaimCase", "CaseEventID": "ClaimNotes", "UserRole": "caseworker-cmc-legaladvisor", "CRUD": "CR"},
